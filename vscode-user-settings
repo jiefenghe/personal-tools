@@ -1,0 +1,19 @@
+{
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wrappingIndent": "indent",
+  "files.insertFinalNewline": true,
+  "workbench.iconTheme": "vscode-icons",
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "gitlens.historyExplorer.enabled": true,
+  "vsicons.projectDetection.autoReload": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[html]": {
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 120,
+    "editor.wrappingIndent": "indent",
+  }
+}
