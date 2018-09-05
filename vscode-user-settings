@@ -4,6 +4,7 @@
   "editor.wordWrap": "wordWrapColumn",
   "editor.wrappingIndent": "indent",
   "files.insertFinalNewline": true,
+  "workbench.editor.enablePreview": true,
   "workbench.iconTheme": "vscode-icons",
   "gitlens.advanced.messages": {
     "suppressShowKeyBindingsNotice": true
